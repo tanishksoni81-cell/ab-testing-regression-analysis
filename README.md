@@ -43,7 +43,9 @@ The objective is to identify the best-performing advertising platform and determ
 ![AB Testing](https://drive.google.com/file/d/1HYKn6iS51ffK5H5miXL4v7_JB-z3Jj-i/view?usp=drive_link)
 
 ### Regression Analysis
-![Regression](https://drive.google.com/file/d/1hky_YDN7qe1utLzGeRRmAJgkgvMMk1de/view?usp=drive_link)
+![Regression]
+<img width="912" height="627" alt="Screenshot 2026-05-22 172832" src="https://github.com/user-attachments/assets/c89cfc4a-80ec-4e8d-ae8b-9dad96a6ce11" />
+
 
 ## Key Insights
 

@@ -37,15 +37,13 @@ The objective is to identify the best-performing advertising platform and determ
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Dashboard](https://drive.google.com/file/d/1eBl0OfryznV1EcMpUJEkUZWjeTbRYwnp/view?usp=drive_link)
-
-### A/B Testing Insights
-![AB Testing](https://drive.google.com/file/d/1HYKn6iS51ffK5H5miXL4v7_JB-z3Jj-i/view?usp=drive_link)
-
-### Regression Analysis
-![Regression]
 <img width="912" height="627" alt="Screenshot 2026-05-22 172832" src="https://github.com/user-attachments/assets/c89cfc4a-80ec-4e8d-ae8b-9dad96a6ce11" />
 
+### A/B Testing Insights
+<img width="909" height="624" alt="Screenshot 2026-05-22 172805" src="https://github.com/user-attachments/assets/77ece7dc-1350-47fa-a108-434b679607bc" />
+
+### Regression Analysis
+<img width="913" height="626" alt="Screenshot 2026-05-22 172713" src="https://github.com/user-attachments/assets/8168967a-c94f-47d0-8049-e5045f0272bb" />
 
 ## Key Insights
 
